@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20200805/pngtree-purple-and-blue-nebula-galaxy-background-image_386406.jpg)
+![MasterHead](https://wallpaperaccess.com/full/4263949.jpg)
 
 <h1 align="center">Hi there👋,I'm Bharath Gaddam</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
