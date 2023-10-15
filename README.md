@@ -20,7 +20,7 @@
 <a href="https://twitter.com/bharath gaddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharath gaddam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharath gaddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath gaddam" height="30" width="40" /></a>
 <a href="https://instagram.com/gaddam167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaddam167" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bharathgaddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bharathgaddam" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bharathgaddam" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@bharathgaddam" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
