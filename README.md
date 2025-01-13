@@ -1,13 +1,13 @@
 ![MasterHead](https://wallpaperaccess.com/full/4263949.jpg)
 
 <h1 align="center">Hi there👋,I'm Bharath Gaddam</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack GENAI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathgaddam1712&label=Profile%20views&color=0e75b6&style=flat" alt="bharathgaddam1712" /> </p>
 
-- 🌱 I’m currently learning **node.js,react.js**
+- 🌱 I’m currently learning **GENAI,Next.js**
 
 - 📝 I regularly write articles on [https://hashnode.com/@BharathGaddam](https://hashnode.com/@BharathGaddam)
 
